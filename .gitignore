@@ -9,6 +9,8 @@ Melbourne_stored.pkl
 .ipynb_checkpoints/map-checkpoint.html
 .ipynb_checkpoints/MissingDataUtils-checkpoint.py
 
+# Vim
+*.swp
 
 # Mac crap
 .DS_Store

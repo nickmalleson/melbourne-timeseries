@@ -1,8 +1,6 @@
-
-Untitled.ipynb
-untitled.txt
 *.pyc
-*.ipynb
+.ipynb_checkpoints/
+.virtual_documents/
 Melbourne_stored.pkl
 .ipynb_checkpoints/cutcode-checkpoint.txt
 .ipynb_checkpoints/DataFrameManipulations-checkpoint.py

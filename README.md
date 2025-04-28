@@ -11,7 +11,7 @@ The code below has been the basis for the following academic papers:
 using Principal Component Analysis](https://www.nickmalleson.co.uk/presentations.html). See [03a PCA Analysis-GISRUK.ipynb](https://github.com/nickmalleson/melbourne-timeseries/blob/main/03a%20PCA%20Analysis-GISRUK.ipynb).
  - Presentation to the [2025 CUPUM conference](https://www.ucl.ac.uk/bartlett/casa/about/cupum-2025) entitled '[Extracting Key Urban Footfall Signatures using Principal Component Analysis](https://virtual.oxfordabstracts.com/event/public/73503/submission/211)'. See [03d PCA Analysis - As a timeseries-CUPUM.ipynb](https://github.com/nickmalleson/melbourne-timeseries/blob/main/03d%20PCA%20Analysis%20-%20As%20a%20timeseries-CUPUM.ipynb)
 
-The required data are freely available through the Melbourne Open Data portal. The scripts have been designed to download the required data on first use. However, if the Portal changes its APIs, or the data cannot be obtained for any other reason, a full copy of this repository _including the required data_ has been archived at: XXXX.
+The required data are freely available through the Melbourne Open Data portal. The scripts have been designed to download the required data on first use. However, if the Portal changes its APIs, or the data cannot be obtained for any other reason, a full copy of this repository _including the required data_ has been archived using Figshare at [dx.doi.org/10.6084/m9.figshare.28882904](https://dx.doi.org/10.6084/m9.figshare.28882904).
 
 ## Description of the different notebooks
 

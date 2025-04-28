@@ -1,6 +1,19 @@
 # Melbourne Time Series
 
-Here I am gathering my work on the Melbourne Pedestrian footfall time-series.
+_Please note that this is a fork from [Jack Liddle](https://github.com/jackliddle)'s [original repository](https://github.com/jackliddle/melbourne-timeseries). I (Nick) and [Wenhua Jiang](https://github.com/Wenhua-Jiang) have made mostly minor changes to the method in response to comments from academic reviewers._
+
+## Use in research
+
+The code below has been the basis for the following academic papers:
+
+ - Research paper in the _Journal of Geographical Systems_ entitled 'Leveraging Principal Component Analysis to Uncover Urban Pedestrian Dynamics'
+ - Presentation to the 2024 GIS Research UK conference conference entitled [Interrogating the Spatio-Temporal Dynamics of Urban Footfall
+using Principal Component Analysis](https://www.nickmalleson.co.uk/presentations.html). See [03a PCA Analysis-GISRUK.ipynb](https://github.com/nickmalleson/melbourne-timeseries/blob/main/03a%20PCA%20Analysis-GISRUK.ipynb).
+ - Presentation to the [2025 CUPUM conference](https://www.ucl.ac.uk/bartlett/casa/about/cupum-2025) entitled '[Extracting Key Urban Footfall Signatures using Principal Component Analysis](https://virtual.oxfordabstracts.com/event/public/73503/submission/211)'. See [03d PCA Analysis - As a timeseries-CUPUM.ipynb](https://github.com/nickmalleson/melbourne-timeseries/blob/main/03d%20PCA%20Analysis%20-%20As%20a%20timeseries-CUPUM.ipynb)
+
+The required data are freely available through the Melbourne Open Data portal. The scripts have been designed to downlad the required data on first use. However, if the Portal changes its APIs, or the data cannot be obtained for any other reason, a full copy of this repository _including the required data_ has been archived at: XXXX.
+
+## Description of the different notebooks
 
 1. [Data Exploration](https://github.com/jackliddle/melbourne-timeseries/blob/main/01%20Data%20exploration.ipynb)
    Initial exploration of the Melbourne dataset, locations of sensors, missing data.
